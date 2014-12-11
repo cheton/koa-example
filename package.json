@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "koa": "~0.13.0",
+    "bluebird": "~2.3.10",
+    "koa-router": "~3.5.0",
+    "koa-static": "~1.4.7",
+    "koa-logger": "~1.2.2"
+  }
+}
