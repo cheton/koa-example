@@ -1,4 +1,4 @@
-![](https://gitlab.tw.trendnet.org/cheton_wu/koa-example/raw/master/koa.png)
+![](https://raw.githubusercontent.com/cheton/koa-example/master/koa.png)
 
 Expressive middleware for node.js using generators via [co](https://github.com/visionmedia/co) to make web applications and APIs more enjoyable to write. Koa's middleware flow in a stack-like manner allowing you to perform actions downstream, then filter and manipulate the response upstream. Koa's use of generators also greatly increases the readability and robustness of your application.
 
